@@ -1,18 +1,16 @@
-# MIDI-LIGHTS
+# IoT Controller and Server + Peripherals
 
 I found a Evolution MK-225C MIDI keyboard laying around my house that no one was using so 
 I decided that I wanted to use it to trigger events.  
 
-I also roumaged around and found an old erector set motor and parts. I ordered 
-some cuttable addressable rgb lights as well. Im thinking: 
+Thanks to [https://github.com/jugoodma/818bw-project](https://github.com/jugoodma/818bw-project), I have some ESP8266 boards, some robots, and a whole bunch of arduino boards. 
 
-+ ~~make bar~~
-+ attach lights to bar
-+ attach bar to motor like a propeller blade
-+ ~~hook motor and control up to aruino board~~
-+ hook up lights to arduino board
-+ ~~hook up midi keyboard to arudino board~~
-+ ~~get input from midi keyboard~~
-+ sync lights up to rotation speed of motor to get those picture effects
-+ map certain melodis/midi keys to differnt pictures/colors
-+ done
+I also have some lights, motors and speakers and a raspberry Pi.
+
+The plan is to have a closed system of IoT devices, where the server is on a raspberry Pi with the MIDI Keybaord as the controller.
+
+Peripherial Items:
+ + Robotic Cars
+ + Addressable RGB Light strips
+ + Speaker
+ + robotic arm kit
